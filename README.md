@@ -29,7 +29,7 @@ The application is using the following dependencies and networks:
 ![workout-tracker2](https://user-images.githubusercontent.com/78684306/127815099-24aaecce-3e66-41fe-9f82-f284ed6efdd6.png)
 
 
-[WalkThrough Video]https://drive.google.com/file/d/1gNvA_ta6jy2fQUxeNxekQSyXt1QqP0qc/view
+![WalkThrough Video]https://drive.google.com/file/d/1gNvA_ta6jy2fQUxeNxekQSyXt1QqP0qc/view
 
 ## Contributors
 Emma Mattner
